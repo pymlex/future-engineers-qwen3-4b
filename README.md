@@ -1,6 +1,6 @@
 # Overview
 
-This model is based on unsloth/Qwen3-4B-Instruct-2507-unsloth-bnb-4bit and was trained using Unsloth. The aim of this project is to automatically generate STEM project descriptions for the Future Engineers conference, using only the project theme as input.
+This model is based on `unsloth/Qwen3-4B-Instruct-2507-unsloth-bnb-4bit` and was trained using `Unsloth`. The aim of this project is to automatically generate STEM project descriptions for the Future Engineers conference, using only the project theme as input.
 
 # Inference
 
